@@ -1,0 +1,6 @@
+python "/home/aerik/big_data_school/coherent-training-alexander-eryuzhev/task_02_get_movies_(python)/get-movies.py"
+python "/home/aerik/big_data_school/coherent-training-alexander-eryuzhev/task_02_get_movies_(python)/get-movies.py" --N 10 --genres "Action|Comedy" --year_from 1990 --year_to 2000 --regexp ninja
+python "/home/aerik/big_data_school/coherent-training-alexander-eryuzhev/task_02_get_movies_(python)/get-movies.py" --N 3
+python "/home/aerik/big_data_school/coherent-training-alexander-eryuzhev/task_03_get_movies_(sql)/client/get-movies.py"
+python "/home/aerik/big_data_school/coherent-training-alexander-eryuzhev/task_03_get_movies_(sql)/client/get-movies.py" --N 10 --genres "Action|Comedy" --year_from 1990 --year_to 2000 --regexp ninja
+python "/home/aerik/big_data_school/coherent-training-alexander-eryuzhev/task_03_get_movies_(sql)/client/get-movies.py" --N 3
